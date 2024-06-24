@@ -50,10 +50,8 @@
 
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishek3223&layout=compact&theme=radical&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=79fe96" alt="Top Languages" />
-  <div align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=avishek3223&show_icons=true&theme=radical&bg_color=0d1117&title_color=b1ffb1&text_color=eceef1&icon_color=0087d7" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishek3223&theme=radical&background=0d1117&stroke=ffffff&text_color=b1ffb1&title_color=b1ffb1&fire=0087d7&ring=0087d7&sideNums=0087d7" alt="GitHub Streak" />
-  </div>
 </div>
 
 ---
