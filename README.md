@@ -17,26 +17,27 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white" alt="Serverless" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="padding: 10px;"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=black&fontSize=14px" alt="JavaScript" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=black&fontSize=14px" alt="HTML5" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=black&fontSize=14px" alt="CSS3" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&labelColor=black&fontSize=14px" alt="TailwindCSS" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=black&fontSize=14px" alt="React" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=black&fontSize=14px" alt="Next.js" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=black&fontSize=14px" alt="Node.js" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=black&fontSize=14px" alt="MongoDB" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white&labelColor=black&fontSize=14px" alt="Bootstrap" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=black&fontSize=14px" alt="TypeScript" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=black&fontSize=14px" alt="Express.js" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=black&fontSize=14px" alt="Docker" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=black&fontSize=14px" alt="Kubernetes" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white&labelColor=black&fontSize=14px" alt="AWS" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=black&fontSize=14px" alt="Firebase" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white&labelColor=black&fontSize=14px" alt="Serverless" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&labelColor=black&fontSize=14px" alt="Git" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=black&fontSize=14px" alt="GitHub" style="padding: 10px;"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white&labelColor=black&fontSize=14px" alt="Figma" style="padding: 10px;"/>
 </p>
+
 
 ---
 
