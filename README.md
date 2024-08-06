@@ -12,7 +12,7 @@
 - 💬 Ask me about **JavaScript, Data Structures & Algorithms, Next.js, and MERN Stack**
 - 📫 How to reach me: [avishekmishra56@gmail.com](mailto:avishekmishra56@gmail.com)
 
----
+----
 
 ### 💻 Tech Stack:
 
