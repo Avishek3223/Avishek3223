@@ -8,7 +8,7 @@
 [![Gmail: Avishek Mishra](https://img.shields.io/badge/-avishekmishra56@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avishekmishra56@gmail.com)](mailto:avishekmishra56@gmail.com)
 
 - 🔭 I’m currently working on **Intelligent Cloud Applications**
-- 🌱 I’m currently learning **TypeScript and Kubernetes**
+- 🌱 I’m currently learning **TypeScript, Kubernetes, PHP, MYSQL**
 - 💬 Ask me about **JavaScript, Data Structures & Algorithms, Next.js, and MERN Stack**
 - 📫 How to reach me: [avishekmishra56@gmail.com](mailto:avishekmishra56@gmail.com)
 
