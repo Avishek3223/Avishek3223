@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI"/>
+ <img src="https://img.shields.io/badge/-Flowbite-3B82F6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Flowbite"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
