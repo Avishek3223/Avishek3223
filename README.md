@@ -35,14 +35,25 @@
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/-Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
+  <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda"/>
+  <img src="https://img.shields.io/badge/-CloudFront-FF9900?style=for-the-badge&logo=amazoncloudfront&logoColor=white" alt="CloudFront"/>
+  <img src="https://img.shields.io/badge/-API Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="API Gateway"/>
+  <img src="https://img.shields.io/badge/-Cognito-005A9C?style=for-the-badge&logo=amazoncognito&logoColor=white" alt="Cognito"/>
+  <img src="https://img.shields.io/badge/-SNS-FF9900?style=for-the-badge&logo=amazonsns&logoColor=white" alt="SNS"/>
+  <img src="https://img.shields.io/badge/-Amplify-FF69B4?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amplify"/>
+  <img src="https://img.shields.io/badge/-CloudWatch-252D3A?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
+  <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/-WebSocket-000000?style=for-the-badge&logo=websockets&logoColor=white" alt="WebSocket"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-bcrypt-F1A63E?style=for-the-badge&logo=bcrypt&logoColor=white" alt="bcrypt"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
-
-
 
 ---
 
