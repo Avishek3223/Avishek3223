@@ -3,6 +3,8 @@
 
 <img align='right' src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="200px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishek3223&label=Profile%20views&color=0e75b6&style=flat" alt="avishek3223" /> </p>
+<p align="left"></p>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/avishek3223?label=Follow&style=social)](https://github.com/avishek3223/?tab=follow)
 [![Linkedin: Avishek Mishra](https://img.shields.io/badge/-AvishekMishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avishek-mishra-6b3910272/)](https://www.linkedin.com/in/avishek-mishra-6b3910272/)
