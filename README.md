@@ -1,6 +1,7 @@
 # Hi 👋, I'm Avishek Mishra
 ### A passionate Full-Stack Developer from India
 
+<img align='right' src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="200px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishek3223&label=Profile%20views&color=0e75b6&style=flat" alt="avishek3223" /> </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/avishek3223?label=Follow&style=social)](https://github.com/avishek3223/?tab=follow)
@@ -11,7 +12,6 @@
 - 🌱 I’m currently learning **TypeScript, Kubernetes, PHP, MYSQL**
 - 💬 Ask me about **JavaScript, Data Structures & Algorithms, Next.js, and MERN Stack**
 - 📫 How to reach me: [avishekmishra56@gmail.com](mailto:avishekmishra56@gmail.com)
-
 ---
 
 ### 💻 Tech Stack:
